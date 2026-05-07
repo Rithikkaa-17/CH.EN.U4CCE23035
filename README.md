@@ -6,7 +6,7 @@
 
 ---
 
-## ⚠️ IMPORTANT — Setup AUTH_TOKEN Before Running
+## IMPORTANT — Setup AUTH_TOKEN Before Running
 
 1. Open `stage1/.env`
 2. Paste your full `access_token` from Postman (POST `/evaluation-service/auth` response)
@@ -66,13 +66,3 @@ Frontend runs at `http://localhost:3000`
 
 ---
 
-## GitHub Submission Checklist
-
-- [x] Single repository named `CH.EN.U4CCE23035`
-- [x] Single branch (`main`)
-- [x] Separate folders per stage (`stage1/`, `stage2/`)
-- [x] `node_modules` in `.gitignore`
-- [x] `.DS_Store` in `.gitignore`
-- [x] `Notification_System_Design.md` with Stage 1 heading
-- [ ] Push screenshots of priority inbox output to repo
-- [ ] Fill Google Form submission link
